@@ -1,0 +1,26 @@
+<annotation>
+    <filename>example_annotation.jpeg</filename>
+    <size>
+        <width>1248</width>
+        <height>384</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Door</name>
+        <bndbox>
+                <xmin>552</xmin>
+                <ymin>85</ymin>
+                <xmax>609</xmax>
+                <ymax>178</ymax>
+            </bndbox>
+        </object>
+    <object>
+        <name>Door</name>
+        <bndbox>
+                <xmin>675</xmin>
+                <ymin>57</ymin>
+                <xmax>703</xmax>
+                <ymax>293</ymax>
+            </bndbox>
+        </object>
+</annotation>
